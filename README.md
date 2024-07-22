@@ -10,6 +10,12 @@ Learn Once, Write Anywhere: We don't make assumptions about the rest of your tec
 Getting Started
 To start developing with React:
 
+
+
+
+<image src="![Alt Text](./images/image.png)>
+
+
 Installation:
 
 You can add React to your project by including it from a CDN or by using npm (Node Package Manager) to install it locally.
